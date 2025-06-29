@@ -1,4 +1,4 @@
-# xuxu-challange
+# github explore
 
 Este repositório está sendo utilizado para fins de teste.
 
